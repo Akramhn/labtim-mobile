@@ -1,16 +1,12 @@
-# labtim_mobile
+# Mobile EEG and ECG Signal Visualization
 
-A new Flutter project.
+This repository contains a mobile application designed for visualizing EEG (Electroencephalogram) and ECG (Electrocardiogram) signals of patients. The data is pre-recorded and stored in a cloud server, allowing the app to retrieve and display these signals for medical analysis and monitoring.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **EEG Signal Visualization**: Display detailed EEG signal graphs to monitor brain activity.
+- **ECG Signal Visualization**: Visual representation of ECG signals for heart monitoring.
+- **Cloud Integration**: Seamless retrieval of patient data from a cloud server.
+- **Real-time Updates**: Periodic fetching and display of the most recent data from the cloud.
+- **User Authentication**: Secure login for authorized access to patient data.
+- **Responsive Design**: User-friendly interface compatible with various mobile devices.
